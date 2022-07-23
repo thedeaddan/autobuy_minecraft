@@ -10,7 +10,7 @@ ____
 `python3 pip install keyboard`  
 `python3 pip install time`  
 `python3 pip install python_imagesearch`  
-`python3 pip install win32gui`
+`python3 pip install win32gui`  
 `python3 pip install python_imagesearch`
 ____
 
