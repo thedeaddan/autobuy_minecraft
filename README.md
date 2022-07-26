@@ -14,13 +14,14 @@ pip3 install keyboard
 pip3 install time  
 pip3 install python_imagesearch  
 pip3 install win32gui  
+pip3 install threading
 ````  
 ____  
   
 В коде есть координаты, они заданы по параметрам:  
 `1. Игра в оконном режиме.`  
 `2. Интерфейс игры стоит 2(средний)`  
-`3. Размеры экрана 1920x1080.`  
+`3. Размеры экрана 2560x1440.`  
 Чтоб задать свои координаты, создайте пустой скрипт и напишите в нем:  
 ```python  
   import pyautogui  
