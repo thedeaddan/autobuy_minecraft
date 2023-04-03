@@ -15,6 +15,7 @@ pip3 install time
 pip3 install python_imagesearch  
 pip3 install win32gui  
 pip3 install threading
+pip3 install pyscreeze
 ````  
 ____  
   
