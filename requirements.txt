@@ -3,3 +3,4 @@ keyboard
 python-imagesearch
 pyTelegramBotAPI
 pywin32
+pyscreeze
