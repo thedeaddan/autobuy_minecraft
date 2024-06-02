@@ -1,0 +1,5 @@
+pyautogui
+keyboard
+python-imagesearch
+pyTelegramBotAPI
+pywin32

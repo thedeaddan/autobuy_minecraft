@@ -9,13 +9,7 @@ https://user-images.githubusercontent.com/40400854/180625937-9357a3e5-080d-43da-
 ____
 Для работы необходим Python3.* и несколько пакетов:  
 ```bat
-pip3 install pyautogui  
-pip3 install keyboard  
-pip3 install time  
-pip3 install python_imagesearch  
-pip3 install win32gui  
-pip3 install threading
-pip3 install pyscreeze
+pip3 install -r requirements.txt
 ````  
 ____  
   
