@@ -3,7 +3,8 @@ from keyboard import press, release
 from time import sleep
 from python_imagesearch.imagesearch import imagesearcharea
 import threading
-from telegram_bot import send_purchase_notification
+from modules.telegram_bot import send_purchase_notification
+from win32gui import GetWindowText, GetForegroundWindow
 
 def screen(user):
     """Функция для обработки логов и отправки уведомлений о покупке"""

@@ -1,8 +1,8 @@
 from time import sleep
 from sys import exit
 from win32gui import GetWindowText, GetForegroundWindow
-from item_purchase import purchase_items
-from window_monitor import monitor_window
+from modules.item_purchase import purchase_items
+from modules.window_monitor import monitor_window
 
 window = "MatHax v1.7.6 - modified/Fabric 1.18.1"
 
